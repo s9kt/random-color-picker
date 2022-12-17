@@ -1,4 +1,4 @@
-# Random color picked
+# Random color picker
 Language: JavaScript
 ## Task
 Create a webpage that has a button that, when pressed, changes the color of the background at random.
